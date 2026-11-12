@@ -1,3 +1,0 @@
-C:/Users/PC/CLionProjects/I. Life Without Zeros/cmake-build-debug/CMakeFiles/I__Life_Without_Zeros.dir
-C:/Users/PC/CLionProjects/I. Life Without Zeros/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/PC/CLionProjects/I. Life Without Zeros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
