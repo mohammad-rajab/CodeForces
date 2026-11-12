@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/PC/CLionProjects/I. Life Without Zeros/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\I__Life_Without_Zeros.dir\\main.cpp.obj -c \"C:\\Users\\PC\\CLionProjects\\I. Life Without Zeros\\main.cpp\"",
+  "file": "C:/Users/PC/CLionProjects/I. Life Without Zeros/main.cpp",
+  "output": "C:/Users/PC/CLionProjects/I. Life Without Zeros/cmake-build-debug/CMakeFiles/I__Life_Without_Zeros.dir/main.cpp.obj"
+}
+]
